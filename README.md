@@ -14,6 +14,9 @@ This project aims to:
 * Analyze purchasing behavior
 * Provide insights for business growth
 
+## Dashboard Preview📸
+![Dashboard Preview](dashboard_preview.png)
+
 ## 🛠️ Tools & Technologies
 
 * Python (Pandas, Matplotlib, Seaborn)
@@ -34,11 +37,6 @@ This project aims to:
 * Found peak purchasing periods
 * Analyzed product/category performance
 * Discovered revenue-driving factors
-
-## 📷 Dashboard Preview
-
-(Add screenshot in screenshots folder)
-
 
 ## 🚀 Skills Demonstrated
 
